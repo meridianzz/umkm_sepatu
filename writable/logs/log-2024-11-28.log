@@ -1,0 +1,725 @@
+INFO - 2024-11-28 03:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 03:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 03:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 03:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:49:58 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\Home.php(54): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+CRITICAL - 2024-11-28 03:50:21 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\Home.php(54): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+CRITICAL - 2024-11-28 03:50:23 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\Home.php(54): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:51:07 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:51:08 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:51:08 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:51:08 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:53:32 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:53:33 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:53:33 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:53:33 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:53:35 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:56:01 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:56:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:56:02 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:56:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:56:02 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:56:03 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 03:56:03 --> ErrorException: Undefined variable $barang
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 49.
+ 1 APPPATH\Views\user\produk\index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\User.php(133): view('user/produk/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 03:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 03:58:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 05:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 05:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 06:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 06:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 14:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 14:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 14:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 14:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 14:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 14:17:32 --> Data diterima: {"kode_brg":"undefined","ukuran":"","jumlah":"1"}
+DEBUG - 2024-11-28 14:17:42 --> Data diterima: {"kode_brg":"undefined","ukuran":"40","jumlah":"1"}
+DEBUG - 2024-11-28 14:33:33 --> Data diterima: {"kode_brg":"undefined","ukuran":"40","jumlah":"1"}
+DEBUG - 2024-11-28 14:35:32 --> Data diterima: {"kode_brg":"undefined","ukuran":"40","jumlah":"1"}
+DEBUG - 2024-11-28 14:35:37 --> Data diterima: {"kode_brg":"undefined","ukuran":"40","jumlah":"1"}
+DEBUG - 2024-11-28 14:36:29 --> Data diterima: {"kode_brg":"undefined","ukuran":"40","jumlah":"2"}
+DEBUG - 2024-11-28 14:53:59 --> Data diterima: {"kode_brg":"undefined","ukuran":"41","jumlah":"1"}
+DEBUG - 2024-11-28 15:00:22 --> Data diterima: {"kode_brg":"undefined","ukuran":"41","jumlah":"1"}
+DEBUG - 2024-11-28 15:00:32 --> Data diterima: {"kode_brg":"undefined","ukuran":"44","jumlah":"1"}
+DEBUG - 2024-11-28 15:05:51 --> Data diterima: {"kode_brg":"12","ukuran":"41","jumlah":"1"}
+DEBUG - 2024-11-28 15:07:05 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"2"}
+CRITICAL - 2024-11-28 15:17:04 --> ErrorException: Undefined array key 0
+[Method: GET, Route: produk]
+in APPPATH\Views\user\produk\index.php on line 31.
+ 1 APPPATH\Views\user\produk\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php', 31)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/index', [], true)
+ 5 APPPATH\Controllers\Home.php(48): view('user/produk/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->produk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 15:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:17:48 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"1","username":"dapa","harga_brg":""}
+ERROR - 2024-11-28 15:17:48 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in C:\xampp\htdocs\umkm-sepatu\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\umkm-sepatu\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ke...', 0)
+#1 C:\xampp\htdocs\umkm-sepatu\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ke...')
+#2 C:\xampp\htdocs\umkm-sepatu\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ke...')
+#3 C:\xampp\htdocs\umkm-sepatu\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ke...', Array, false)
+#4 C:\xampp\htdocs\umkm-sepatu\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\umkm-sepatu\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\umkm-sepatu\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\umkm-sepatu\app\Controllers\Keranjang.php(69): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\umkm-sepatu\system\CodeIgniter.php(933): App\Controllers\Keranjang->addToCart()
+#9 C:\xampp\htdocs\umkm-sepatu\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+#10 C:\xampp\htdocs\umkm-sepatu\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\umkm-sepatu\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\umkm-sepatu\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\umkm-sepatu\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\umkm-sepatu\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2024-11-28 15:17:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'field list'
+[Method: POST, Route: keranjang/add]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `keranjang` (`username`, `kode_brg`, `jumlah`, `created_at`, `updated_at`) VALUES (:username:, :kode_brg:, :jumlah:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Keranjang.php(69): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->addToCart()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+CRITICAL - 2024-11-28 15:17:48 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `keranjang` (`username`, `kode_brg`, `jumlah`, `created_at`, `updated_at`) VALUES (\'dapa\', \'12\', \'1\', \'2024-11-28 15:17:48\', \'2024-11-28 15:17:48\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `keranjang` (`username`, `kode_brg`, `jumlah`, `created_at`, `updated_at`) VALUES (\'dapa\', \'12\', \'1\', \'2024-11-28 15:17:48\', \'2024-11-28 15:17:48\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `keranjang` (`username`, `kode_brg`, `jumlah`, `created_at`, `updated_at`) VALUES (:username:, :kode_brg:, :jumlah:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Keranjang.php(69): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->addToCart()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+CRITICAL - 2024-11-28 15:17:48 --> [Caused by] mysqli_sql_exception: Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `keranjang` (`username`, `kode_brg`, `jumlah`, `created_at`, `updated_at`) VALUES (\'dapa\', \'12\', \'1\', \'2024-11-28 15:17:48\', \'2024-11-28 15:17:48\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `keranjang` (`username`, `kode_brg`, `jumlah`, `created_at`, `updated_at`) VALUES (\'dapa\', \'12\', \'1\', \'2024-11-28 15:17:48\', \'2024-11-28 15:17:48\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `keranjang` (`username`, `kode_brg`, `jumlah`, `created_at`, `updated_at`) VALUES (\'dapa\', \'12\', \'1\', \'2024-11-28 15:17:48\', \'2024-11-28 15:17:48\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `keranjang` (`username`, `kode_brg`, `jumlah`, `created_at`, `updated_at`) VALUES (:username:, :kode_brg:, :jumlah:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Keranjang.php(69): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->addToCart()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 15:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:18:32 --> Data diterima: {"kode_brg":"12","ukuran":"","jumlah":"2","username":"dapa","harga_brg":""}
+INFO - 2024-11-28 15:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:18:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:18:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:19:13 --> Data diterima: {"kode_brg":"7","ukuran":"44","jumlah":"1","username":"dapa","harga_brg":""}
+INFO - 2024-11-28 15:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:19:38 --> Data diterima: {"kode_brg":"12","ukuran":"41","jumlah":"1","username":"dapa","harga_brg":""}
+INFO - 2024-11-28 15:20:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:20:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:20:08 --> Data diterima: {"kode_brg":"7","ukuran":"45","jumlah":"1","username":"dapa","harga_brg":""}
+INFO - 2024-11-28 15:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:21:00 --> Data diterima: {"kode_brg":"7","ukuran":"45","jumlah":"1","username":"dapa","harga_brg":""}
+INFO - 2024-11-28 15:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:21:47 --> Data diterima: {"kode_brg":"7","ukuran":"45","jumlah":"2","username":"dapa","harga_brg":""}
+INFO - 2024-11-28 15:25:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:25:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:25:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:25:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:25:57 --> Data diterima: {"kode_brg":"11","ukuran":"45","jumlah":"2","username":"dapa","harga_brg":""}
+INFO - 2024-11-28 15:34:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:34:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:34:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:34:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:34:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:37:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:37:22 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"1","username":"dapa","harga_brg":"120000"}
+INFO - 2024-11-28 15:37:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:37:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:37:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:37:51 --> Data diterima: {"kode_brg":"11","ukuran":"45","jumlah":"2","username":"dapa","harga_brg":"450000"}
+INFO - 2024-11-28 15:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:38:16 --> Data diterima: {"kode_brg":"7","ukuran":"44","jumlah":"2","username":"dapa","harga_brg":"450000"}
+INFO - 2024-11-28 15:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:40:08 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"2","username":"dapa","harga_brg":"120000"}
+INFO - 2024-11-28 15:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:44:51 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"2","username":"dapa","harga_brg":"","total_harga":""}
+INFO - 2024-11-28 15:45:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:45:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 15:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 15:45:28 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"1","username":"dapa","harga_brg":"120000","total_harga":"120000"}
+INFO - 2024-11-28 18:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 18:10:50 --> Data diterima: {"kode_brg":"11","ukuran":"45","jumlah":"2","username":"","harga_brg":"450000","total_harga":"900000"}
+INFO - 2024-11-28 18:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:11:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:11:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 18:11:39 --> Data diterima: {"kode_brg":"11","ukuran":"45","jumlah":"3","username":"dapa","harga_brg":"450000","total_harga":"1350000"}
+INFO - 2024-11-28 18:12:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:12:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:12:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 18:20:56 --> ErrorException: Undefined array key "gambar_brg"
+[Method: GET, Route: keranjang]
+in APPPATH\Views\user\keranjang\index.php on line 46.
+ 1 APPPATH\Views\user\keranjang\index.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "gambar_brg"', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php', 46)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/keranjang/index', [], true)
+ 5 APPPATH\Controllers\Keranjang.php(97): view('user/keranjang/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->viewCart()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 18:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 18:23:09 --> ErrorException: Undefined array key "gambar_brg"
+[Method: GET, Route: keranjang]
+in APPPATH\Views\user\keranjang\index.php on line 46.
+ 1 APPPATH\Views\user\keranjang\index.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "gambar_brg"', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php', 46)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/keranjang/index', [], true)
+ 5 APPPATH\Controllers\Keranjang.php(97): view('user/keranjang/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->viewCart()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 18:26:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-11-28 18:26:47 --> mysqli_sql_exception: Unknown column 'barang.ukuran_brg' in 'field list' in C:\xampp\htdocs\umkm-sepatu\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\umkm-sepatu\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `keranja...', 0)
+#1 C:\xampp\htdocs\umkm-sepatu\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `keranja...')
+#2 C:\xampp\htdocs\umkm-sepatu\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `keranja...')
+#3 C:\xampp\htdocs\umkm-sepatu\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `keranja...', Array, false)
+#4 C:\xampp\htdocs\umkm-sepatu\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\umkm-sepatu\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\umkm-sepatu\app\Controllers\Keranjang.php(94): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\umkm-sepatu\system\CodeIgniter.php(933): App\Controllers\Keranjang->viewCart()
+#8 C:\xampp\htdocs\umkm-sepatu\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+#9 C:\xampp\htdocs\umkm-sepatu\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\umkm-sepatu\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\umkm-sepatu\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\umkm-sepatu\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\xampp\htdocs\umkm-sepatu\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-11-28 18:26:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'barang.ukuran_brg' in 'field list'
+[Method: GET, Route: keranjang]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `keranjang`.*, `barang`.`nama_brg`, `barang`.`harga_brg`, `barang`.`foto_brg`, `barang`.`ukuran_brg`
+FROM `keranjang`
+JOIN `barang` ON `barang`.`kode_brg` = `keranjang`.`kode_brg`
+WHERE `keranjang`.`username` = :keranjang.username:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Keranjang.php(94): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->viewCart()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+CRITICAL - 2024-11-28 18:26:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'barang.ukuran_brg' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `keranjang`.*, `barang`.`nama_brg`, `barang`.`harga_brg`, `barang`.`foto_brg`, `barang`.`ukuran_brg`
+FROM `keranjang`
+JOIN `barang` ON `barang`.`kode_brg` = `keranjang`.`kode_brg`
+WHERE `keranjang`.`username` = \'dapa\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `keranjang`.*, `barang`.`nama_brg`, `barang`.`harga_brg`, `barang`.`foto_brg`, `barang`.`ukuran_brg`
+FROM `keranjang`
+JOIN `barang` ON `barang`.`kode_brg` = `keranjang`.`kode_brg`
+WHERE `keranjang`.`username` = \'dapa\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `keranjang`.*, `barang`.`nama_brg`, `barang`.`harga_brg`, `barang`.`foto_brg`, `barang`.`ukuran_brg`
+FROM `keranjang`
+JOIN `barang` ON `barang`.`kode_brg` = `keranjang`.`kode_brg`
+WHERE `keranjang`.`username` = :keranjang.username:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Keranjang.php(94): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->viewCart()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+CRITICAL - 2024-11-28 18:26:47 --> [Caused by] mysqli_sql_exception: Unknown column 'barang.ukuran_brg' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `keranjang`.*, `barang`.`nama_brg`, `barang`.`harga_brg`, `barang`.`foto_brg`, `barang`.`ukuran_brg`
+FROM `keranjang`
+JOIN `barang` ON `barang`.`kode_brg` = `keranjang`.`kode_brg`
+WHERE `keranjang`.`username` = \'dapa\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `keranjang`.*, `barang`.`nama_brg`, `barang`.`harga_brg`, `barang`.`foto_brg`, `barang`.`ukuran_brg`
+FROM `keranjang`
+JOIN `barang` ON `barang`.`kode_brg` = `keranjang`.`kode_brg`
+WHERE `keranjang`.`username` = \'dapa\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `keranjang`.*, `barang`.`nama_brg`, `barang`.`harga_brg`, `barang`.`foto_brg`, `barang`.`ukuran_brg`
+FROM `keranjang`
+JOIN `barang` ON `barang`.`kode_brg` = `keranjang`.`kode_brg`
+WHERE `keranjang`.`username` = \'dapa\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `keranjang`.*, `barang`.`nama_brg`, `barang`.`harga_brg`, `barang`.`foto_brg`, `barang`.`ukuran_brg`
+FROM `keranjang`
+JOIN `barang` ON `barang`.`kode_brg` = `keranjang`.`kode_brg`
+WHERE `keranjang`.`username` = :keranjang.username:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Keranjang.php(94): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->viewCart()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 18:27:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 18:27:16 --> ErrorException: Undefined variable $totalHarga
+[Method: GET, Route: keranjang]
+in APPPATH\Views\user\keranjang\index.php on line 70.
+ 1 APPPATH\Views\user\keranjang\index.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalHarga', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/keranjang/index', [], true)
+ 5 APPPATH\Controllers\Keranjang.php(97): view('user/keranjang/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->viewCart()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 18:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 18:27:18 --> ErrorException: Undefined variable $totalHarga
+[Method: GET, Route: keranjang]
+in APPPATH\Views\user\keranjang\index.php on line 70.
+ 1 APPPATH\Views\user\keranjang\index.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalHarga', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/keranjang/index', [], true)
+ 5 APPPATH\Controllers\Keranjang.php(97): view('user/keranjang/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->viewCart()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 18:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 18:28:04 --> ErrorException: Undefined variable $totalHarga
+[Method: GET, Route: keranjang]
+in APPPATH\Views\user\keranjang\index.php on line 70.
+ 1 APPPATH\Views\user\keranjang\index.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalHarga', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/keranjang/index', [], true)
+ 5 APPPATH\Controllers\Keranjang.php(97): view('user/keranjang/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->viewCart()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 18:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-28 18:28:05 --> ErrorException: Undefined variable $totalHarga
+[Method: GET, Route: keranjang]
+in APPPATH\Views\user\keranjang\index.php on line 70.
+ 1 APPPATH\Views\user\keranjang\index.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalHarga', 'C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\umkm-sepatu\\app\\Views\\user\\keranjang\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/keranjang/index', [], true)
+ 5 APPPATH\Controllers\Keranjang.php(97): view('user/keranjang/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Keranjang->viewCart()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keranjang))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\umkm-sepatu\\public\\index.php')
+INFO - 2024-11-28 18:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 18:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 18:56:53 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 18:56:55 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 18:56:56 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 18:56:56 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 18:56:56 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 18:56:57 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 18:56:57 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 18:57:09 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"3","username":"dapa","harga_brg":"120000","total_harga":"360000"}
+DEBUG - 2024-11-28 18:57:09 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"3","username":"dapa","harga_brg":"120000","total_harga":"360000"}
+DEBUG - 2024-11-28 18:57:10 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"3","username":"dapa","harga_brg":"120000","total_harga":"360000"}
+DEBUG - 2024-11-28 18:57:10 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"3","username":"dapa","harga_brg":"120000","total_harga":"360000"}
+DEBUG - 2024-11-28 18:57:10 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"3","username":"dapa","harga_brg":"120000","total_harga":"360000"}
+INFO - 2024-11-28 19:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 19:30:16 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 19:30:16 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 19:30:16 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 19:30:17 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 19:30:17 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 19:30:26 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+INFO - 2024-11-28 19:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 19:31:32 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"3","username":"dapa","harga_brg":"120000","total_harga":"360000"}
+DEBUG - 2024-11-28 19:31:33 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"3","username":"dapa","harga_brg":"120000","total_harga":"360000"}
+DEBUG - 2024-11-28 19:31:33 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"3","username":"dapa","harga_brg":"120000","total_harga":"360000"}
+INFO - 2024-11-28 19:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 19:32:12 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+DEBUG - 2024-11-28 19:32:13 --> Data diterima: {"kode_brg":"12","ukuran":"40","jumlah":"2","username":"dapa","harga_brg":"120000","total_harga":"240000"}
+INFO - 2024-11-28 19:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 19:33:39 --> Data diterima: {"kode_brg":"11","ukuran":"45","jumlah":"2","username":"dapa","harga_brg":"450000","total_harga":"900000"}
+INFO - 2024-11-28 19:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 19:33:53 --> Data diterima: {"kode_brg":"11","ukuran":"45","jumlah":"2","username":"dapa","harga_brg":"450000","total_harga":"900000"}
+INFO - 2024-11-28 19:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-28 19:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-11-28 19:36:27 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"4","username":"dapa","harga_brg":"120000","total_harga":"480000"}
+DEBUG - 2024-11-28 19:36:32 --> Data diterima: {"kode_brg":"13","ukuran":"41","jumlah":"4","username":"dapa","harga_brg":"120000","total_harga":"480000"}
+DEBUG - 2024-11-28 19:36:47 --> Data diterima: {"kode_brg":"12","ukuran":"41","jumlah":"1","username":"dapa","harga_brg":"120000","total_harga":"120000"}
+DEBUG - 2024-11-28 19:40:36 --> Data diterima: {"kode_brg":"11","ukuran":"45","jumlah":"2","username":"dapa","harga_brg":"450000","total_harga":"900000"}
+DEBUG - 2024-11-28 19:40:44 --> Data diterima: {"kode_brg":"11","ukuran":"45","jumlah":"3","username":"dapa","harga_brg":"450000","total_harga":"1350000"}
+DEBUG - 2024-11-28 19:40:59 --> Data diterima: {"kode_brg":"11","ukuran":"45","jumlah":"5","username":"dapa","harga_brg":"450000","total_harga":"2250000"}
